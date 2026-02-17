@@ -98,3 +98,7 @@ Google Sheets (Live Data Source)
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🚀 Live Demo
+
+🔗 https://skylark-ai-agent-efi6h47vgxtmmhzvmpxvum.streamlit.app/
